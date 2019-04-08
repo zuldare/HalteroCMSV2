@@ -36,14 +36,14 @@ public class Category {
     /**
      * Up limit of the category in kilograms.
      */
-    @Column(name = "up_limit", nullable = false, precision = 6, scale = 3)
-    private Double up_limit;
+    @Column(name = "upLimit", nullable = false, precision = 6, scale = 3)
+    private Double upLimit;
 
     /**
      * Down limit of the category in kilograms.
      */
-    @Column(name = "down_limit", nullable = false, precision = 6, scale = 3)
-    private Double down_limit;
+    @Column(name = "downLimit", nullable = false, precision = 6, scale = 3)
+    private Double downLimit;
 
     /**
      * Gender of the category.

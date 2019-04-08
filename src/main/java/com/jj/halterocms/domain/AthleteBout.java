@@ -23,9 +23,9 @@ public class AthleteBout {
      * Identification of the lifter
      */
     @Id
-    @Column(name = "lifter_id", nullable = false)
+    @Column(name = "athlete_bout_id", nullable = false)
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Integer athleteBout;
+    private Integer athleteBoutId;
 
     /**
      * Bout.
