@@ -1,7 +1,8 @@
-package com.jj.halterocms.halterocms.service.impl;
+package com.jj.halterocms.service.impl;
 
-import com.wcms.weightliftingcms.domain.Competition;
-import com.wcms.weightliftingcms.service.CompetitionService;
+
+import com.jj.halterocms.domain.Competition;
+import com.jj.halterocms.service.CompetitionService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 

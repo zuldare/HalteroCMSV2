@@ -1,4 +1,4 @@
-package com.jj.halterocms.halterocms;
+package com.jj.halterocms;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

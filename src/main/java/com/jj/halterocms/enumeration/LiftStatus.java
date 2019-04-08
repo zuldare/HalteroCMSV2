@@ -1,4 +1,4 @@
-package com.jj.halterocms.halterocms.enumeration;
+package com.jj.halterocms.enumeration;
 
 /**
  * Possible status of a lift.

@@ -1,4 +1,4 @@
-package com.jj.halterocms.halterocms.controller;
+package com.jj.halterocms.controller;
 
 /**
  * Competition's controller.

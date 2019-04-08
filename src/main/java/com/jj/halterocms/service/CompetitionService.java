@@ -1,6 +1,7 @@
-package com.jj.halterocms.halterocms.service;
+package com.jj.halterocms.service;
 
-import com.wcms.weightliftingcms.domain.Competition;
+
+import com.jj.halterocms.domain.Competition;
 
 /**
  * Competition's service layer.

@@ -1,4 +1,4 @@
-package com.jj.halterocms.halterocms;
+package com.jj.halterocms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

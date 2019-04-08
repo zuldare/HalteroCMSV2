@@ -1,4 +1,4 @@
-package com.jj.halterocms.halterocms.domain;
+package com.jj.halterocms.domain;
 
 import lombok.*;
 

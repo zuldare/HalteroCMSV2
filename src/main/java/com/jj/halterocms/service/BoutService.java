@@ -1,4 +1,4 @@
-package com.jj.halterocms.halterocms.service;
+package com.jj.halterocms.service;
 
 /**
  * Bout's service layer.

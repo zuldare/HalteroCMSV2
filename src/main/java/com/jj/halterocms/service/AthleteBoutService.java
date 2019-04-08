@@ -1,4 +1,4 @@
-package com.jj.halterocms.halterocms.service;
+package com.jj.halterocms.service;
 
 /**
  * AthleteBout's service layer.

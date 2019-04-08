@@ -1,7 +1,7 @@
-package com.jj.halterocms.halterocms.repository;
+package com.jj.halterocms.repository;
 
 
-import com.jj.halterocms.halterocms.domain.Category;
+import com.jj.halterocms.domain.Category;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
